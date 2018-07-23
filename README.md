@@ -2,8 +2,8 @@
 
 # Table of contents
 1. [Purpose](#Purpose)
-2. [Iterating Process] (#Process)
-3. [Features] (#Features)
+2. [Iterating Process](#Process)
+3. [Features](#Features)
 
 ## Purpose <a name="Purpose"></a>
 - To provide the advisors and directors of UR Global a more efficient means of keeping in touch with the members 
